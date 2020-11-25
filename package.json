@@ -4,7 +4,7 @@
   "description": "A simple library to render a template text with variables",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -25,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/aguerram/template-render-lite/issues"
   },
-  "homepage": "https://github.com/aguerram/template-render-lite#readme"
+  "homepage": "https://github.com/aguerram/template-render-lite#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
 }
