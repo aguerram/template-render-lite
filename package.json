@@ -1,6 +1,6 @@
 {
   "name": "template-render-lite",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A simple library to render a template text with variables",
   "main": "index.js",
   "scripts": {
@@ -15,11 +15,10 @@
     "engine",
     "render",
     "text",
-    "render",
     "replace",
     "variables",
-    "within",
-    "text"
+    "simple",
+    "regex"
   ],
   "author": "Mostafa AGUERRAM",
   "license": "ISC",
