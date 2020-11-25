@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-This package used as a simple template engine that can replace values in a simple template text.
+This package is used as a simple template engine that can replace values in a simple template text using Regex.
 
 ### Features
  - Tiny library < 1kb
