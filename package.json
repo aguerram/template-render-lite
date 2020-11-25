@@ -1,6 +1,6 @@
 {
-  "name": "template-render",
-  "version": "1.0.0",
+  "name": "template-render-lite",
+  "version": "1.0.1",
   "description": "A simple library to render a template text with variables",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aguerram/templateRender.git"
+    "url": "git+https://github.com/aguerram/template-render-lite.git"
   },
   "keywords": [
     "template",
@@ -24,7 +24,7 @@
   "author": "Mostafa AGUERRAM",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/aguerram/templateRender/issues"
+    "url": "https://github.com/aguerram/template-render-lite/issues"
   },
-  "homepage": "https://github.com/aguerram/templateRender#readme"
+  "homepage": "https://github.com/aguerram/template-render-lite#readme"
 }
