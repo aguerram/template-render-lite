@@ -1,6 +1,6 @@
 {
   "name": "template-render-lite",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A simple library to render a template text with variables",
   "main": "index.js",
   "scripts": {
