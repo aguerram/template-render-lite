@@ -22,17 +22,17 @@ npm install template-render-lite
 import templateRender from "template-render-lite"
 
 const inovice = {
-    name:"My name",
+    name:"User",
     year:2020,
     price:15.99,
     priceSymbol:"$"
 }
-const template = "hello {name}, total price = {price}{priceSymbol} || year {year}"
+const template = "Hello '{name}', total price = {price}{priceSymbol} || year {year}, {thisWillNotChange}"
 
 console.log(templateRender(template,inovice))
 ```
 Output
 ```
-hello My name, total price = 15.99$ || year 2020 
+Hello 'User', total price = 15.99$ || year 2020, thisWillNotChange
 ```
 
